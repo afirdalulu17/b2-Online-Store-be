@@ -1,0 +1,19 @@
+{
+  "name": "online-store-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.0",
+    "zod": "^3.23.8"
+  }
+}
